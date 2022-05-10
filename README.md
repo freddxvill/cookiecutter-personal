@@ -36,7 +36,7 @@ cookiecutter https://github.com/freddxvill/cookiecutter-personal
         │   ├── processed      <- The final, canonical data sets for modeling.
         │   └── raw            <- The original, immutable data dump.
         │
-        ├── Model              <- Save the model
+        ├── model              <- Save the model
         |
         ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
         │                         the creator's initials, and a short `-` delimited description, e.g.
